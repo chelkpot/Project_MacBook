@@ -7,6 +7,20 @@
 ![alt text](image.png)
 
 <a href="https://www.figma.com/design/XJ7kPCKl4lYNVqhx4soIj5/simple-and-professional-website-landing-page-design--Community-?node-id=1-3&t=o6tn3ndxNuf9PZ50-0">**Ссылка на проект Figma**</a>
+
+## Внимание
+Для того чтобы Github загрузил ваш репощитарий как HTML нужно в настройках включить загрузку страницы pages
+
+![alt text](image-1.png) ![alt text](image-2.png)
+
+После того как выбрали Pages нужно выбрать загрузку с ветки main
+
+![alt text](image-3.png) ![alt text](image-4.png)
+
+Для сохранения нажмите на кнопку save. Подождите 3 минуты и появится url адрес вашей страницы
+
+![alt text](image-5.png)
+
 ## Цель
 Научиться создавать веб-страницы с помощью CSS и HTML,
 
@@ -17,7 +31,7 @@
 2. Создайте файл style.css и подключите его к index.html
 3. После выполнения добавьте ваши файлы в индекс репозитария и сделайте комит
 4. Не забудьте сделать git push origin main
-
+ccm
 ## Файлы
 - **index.html** — HTML-структура страницы.  
 - **style.css** — стили оформления текста.
