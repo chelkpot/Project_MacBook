@@ -9,7 +9,7 @@
 <a href="https://www.figma.com/design/XJ7kPCKl4lYNVqhx4soIj5/simple-and-professional-website-landing-page-design--Community-?node-id=1-3&t=o6tn3ndxNuf9PZ50-0">**Ссылка на проект Figma**</a>
 
 ## Внимание
-Для того чтобы Github загрузил ваш репощитарий как HTML нужно в настройках включить загрузку страницы pages
+Для того чтобы Github загрузил ваш репозитарий как HTML нужно в настройках включить загрузку страницы pages
 
 ![alt text](image-1.png) ![alt text](image-2.png)
 
